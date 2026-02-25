@@ -6,12 +6,12 @@ pip3 install requests selenium
 
 ## Start
 
-python3 myproject.py <command>
+python3 myproject.py [command]
 
 ## Befehle
 
 ### Pflichtfeatures
-- `python3 myproject.py title [url]` – zeigt den HTML-Titel (`<title>`)
+- `python3 myproject.py title [url]` – zeigt den HTML-Titel (`&lt;title&gt;`)
 - `python3 myproject.py get` – sendet einen GET-Request mit Variablen
 - `python3 myproject.py post` – sendet einen POST-Request mit Variablen
 - `python3 myproject.py list-cookies [url]` – zeigt Cookies im Browser (Selenium)

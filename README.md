@@ -21,3 +21,4 @@ python3 myproject.py <command>
 - Testseiten:
   - `https://example.com`
   - `https://httpbin.org`
+- Auf macOS wird `python3` verwendet (statt `python`).
